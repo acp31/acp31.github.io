@@ -3,7 +3,7 @@ markdown: redcarpet
 pygments: true
 baseurl: ""
 github: https://www.github.com/acp31
-about: "I am an asipring Software Engineer from Seattle, WA. I am learning to harness the powers of JavaScript"
+about: "I am an asipring Software Engineer from Seattle, WA. I am currently learning to harness the powers of JavaScript"
 urls:
     - text: github
       url: https://github.com/acp31
