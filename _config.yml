@@ -1,11 +1,14 @@
 name: Zero to Engineer
 markdown: redcarpet
 pygments: highlighter
+encoding: utf-8
 baseurl: ""
 github: https://www.github.com/acp31
-about: "I am an asipring Software Engineer from Seattle, WA. I am currently learning to harness the powers of JavaScript"
+about: "I am a Software Engineer from Seattle, WA. Unleashing the awesome powers of JavaScript"
 urls:
     - text: github
       url: https://github.com/acp31
+    - text: linkedin
+      url: https://www.linkedin.com/in/acp31
     - text: email
       url: mailto:aaronp48@gmail.com
